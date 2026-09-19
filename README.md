@@ -52,7 +52,7 @@ STEP / STL
 
 ---
 
-### 🎛️ DIY Stream Deck
+### 🎛️ [DIY Stream Deck](https://github.com/Evo1148/streamdeck-diy)
 
 A custom Stream Deck built from scratch around an RP2040, including the electronics, firmware, enclosure and Windows configuration software.
 
