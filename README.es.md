@@ -69,7 +69,7 @@ Un Stream Deck personalizado construido desde cero alrededor de un RP2040, inclu
 
 ---
 
-### 🖥️ HomeLab
+### 🖥️ [HomeLab](https://github.com/Evo1148/homelab)
 
 Un laboratorio doméstico compacto para aprender infraestructura utilizándola de verdad.
 
