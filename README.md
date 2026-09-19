@@ -24,7 +24,7 @@ Right now I'm especially interested in:
 
 ## What I'm building
 
-### 🤖 CAD AI
+### 🤖 [CAD AI](https://github.com/Evo1148/CAD-AI)
 
 A local-first system that turns natural-language requirements into validated parametric CAD.
 
