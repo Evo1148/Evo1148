@@ -69,7 +69,7 @@ A custom Stream Deck built from scratch around an RP2040, including the electron
 
 ---
 
-### 🖥️ HomeLab
+### 🖥️ [HomeLab](https://github.com/Evo1148/homelab)
 
 A compact self-hosted lab used to learn infrastructure by actually running it.
 
