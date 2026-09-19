@@ -1,7 +1,11 @@
+<p align="center">
+  <strong>🇬🇧 English</strong> · <a href="./README.es.md">🇪🇸 Español</a>
+</p>
+
 <h1 align="center">Hi, I'm Jaime 👋</h1>
 
 <p align="center">
-  Computer Engineering & Telecommunications student building projects across
+  Spanish Computer Engineering & Telecommunications student building projects across
   <strong>AI, embedded systems, CAD and infrastructure</strong>.
 </p>
 
@@ -9,7 +13,7 @@
 
 ## About me
 
-I like building complete systems rather than isolated demos: software, hardware, infrastructure and the tooling around them.
+I'm from Spain 🇪🇸 and I like building complete systems rather than isolated demos: software, hardware, infrastructure and the tooling around them.
 
 Right now I'm especially interested in:
 
